@@ -51,7 +51,7 @@ const resetStyle = css`
 
 const styles = css`
   * {
-    font-family: 'Nunito';
+    font-family: 'Nunito' !important;
   }
 `
 
